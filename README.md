@@ -1,0 +1,1 @@
+Users can browse a JSON-driven database of every kind of tree that grows here, filtering by shade, sensitivity to salt and other qualities. If I rewrote this today it would be tighter and less redundant. 
